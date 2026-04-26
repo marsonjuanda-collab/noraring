@@ -359,7 +359,7 @@ body {
 /* Height-based adjustment untuk landscape */
 @media (max-height: 700px) and (orientation: landscape) {
     .hero {
-        padding: 60px 0 30px;
+        padding: 40px 0 30px;
         min-height: auto;
     }
     
